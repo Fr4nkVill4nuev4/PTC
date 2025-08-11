@@ -47,6 +47,7 @@
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.dgvNombre = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -58,11 +59,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(109)))), ((int)(((byte)(136)))));
+            this.panel1.Controls.Add(this.dgvNombre);
             this.panel1.Controls.Add(this.pictureBox7);
             this.panel1.Controls.Add(this.pictureBox2);
             this.panel1.Controls.Add(this.pictureBox4);
@@ -74,7 +77,7 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = global::Credaris.Properties.Resources.user;
-            this.pictureBox7.Location = new System.Drawing.Point(708, 11);
+            this.pictureBox7.Location = new System.Drawing.Point(698, 11);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(36, 31);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -84,7 +87,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Credaris.Properties.Resources.campana;
-            this.pictureBox2.Location = new System.Drawing.Point(659, 11);
+            this.pictureBox2.Location = new System.Drawing.Point(627, 11);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(27, 31);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -94,7 +97,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Credaris.Properties.Resources.barra;
-            this.pictureBox4.Location = new System.Drawing.Point(692, 6);
+            this.pictureBox4.Location = new System.Drawing.Point(670, 6);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(10, 41);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -171,8 +174,11 @@
             this.DVGpdc.Location = new System.Drawing.Point(202, 127);
             this.DVGpdc.Name = "DVGpdc";
             this.DVGpdc.ReadOnly = true;
+            this.DVGpdc.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
+            this.DVGpdc.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.DVGpdc.Size = new System.Drawing.Size(802, 179);
             this.DVGpdc.TabIndex = 21;
+            this.DVGpdc.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DVGpdc_CellContentClick);
             // 
             // DGVpp
             // 
@@ -183,6 +189,7 @@
             this.DGVpp.Location = new System.Drawing.Point(193, 365);
             this.DGVpp.Name = "DGVpp";
             this.DGVpp.ReadOnly = true;
+            this.DGVpp.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.DGVpp.Size = new System.Drawing.Size(811, 106);
             this.DGVpp.TabIndex = 20;
             // 
@@ -275,6 +282,15 @@
             this.pictureBox10.TabIndex = 14;
             this.pictureBox10.TabStop = false;
             // 
+            // dgvNombre
+            // 
+            this.dgvNombre.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(109)))), ((int)(((byte)(136)))));
+            this.dgvNombre.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvNombre.Location = new System.Drawing.Point(741, 12);
+            this.dgvNombre.Name = "dgvNombre";
+            this.dgvNombre.Size = new System.Drawing.Size(124, 30);
+            this.dgvNombre.TabIndex = 2;
+            // 
             // FormnularioPE
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -307,6 +323,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -333,5 +350,6 @@
         private System.Windows.Forms.Button btnCDP;
         private System.Windows.Forms.Button btnP;
         private System.Windows.Forms.Button btnPDC;
+        private System.Windows.Forms.DataGridView dgvNombre;
     }
 }

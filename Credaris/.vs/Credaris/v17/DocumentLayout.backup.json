@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\",
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|d:\\escritorio\\itr\\informatica itr\\c#\\ptc\\credaris\\formulario\\pdcformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\pdcformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\pdcFormulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:Formulario\\pdcFormulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulario\\formnulariope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\formnulariope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulario\\formnulariope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulario\\formnulariope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\formnulariope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulario\\formulariocdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulario\\formulariocdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\formulariocdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulario\\formnulariope.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\pdcFormulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:Formulario\\pdcFormulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulario\\formnulariope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\formnulariope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulario\\formnulariope.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\formnulariope.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulario\\formulariocdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\formulariocdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|c:\\users\\estudiante\\desktop\\ptc\\credaris\\formulario\\pdcformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\pdcformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulario\\formulariocdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\formulariocdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulario\\pdcformulario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulario\\pdcformulario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulario\\pdcformulario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\formulariousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\formulariousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:formulariousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90446627-58D6-4189-94E5-F43BD8F61E13}|Credaris.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,145 +58,159 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "FormularioUsuario.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\FormularioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\FormularioUsuario.cs",
               "RelativeDocumentMoniker": "FormularioUsuario.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\FormularioUsuario.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\FormularioUsuario.cs",
               "RelativeToolTip": "FormularioUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T04:38:05.488Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormnularioPE.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormnularioPE.Designer.cs",
+              "RelativeDocumentMoniker": "Formulario\\FormnularioPE.Designer.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormnularioPE.Designer.cs*",
+              "RelativeToolTip": "Formulario\\FormnularioPE.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:47:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormnularioPE.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormnularioPE.cs",
+              "RelativeDocumentMoniker": "Formulario\\FormnularioPE.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormnularioPE.cs*",
+              "RelativeToolTip": "Formulario\\FormnularioPE.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:47:21.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pdcFormulario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\pdcFormulario.cs",
+              "RelativeDocumentMoniker": "Formulario\\pdcFormulario.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\pdcFormulario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\pdcFormulario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:06:40.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormnularioPE.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormnularioPE.cs",
+              "RelativeDocumentMoniker": "Formulario\\FormnularioPE.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormnularioPE.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Formulario\\FormnularioPE.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:31:46.955Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioCDP.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormularioCDP.cs",
+              "RelativeDocumentMoniker": "Formulario\\FormularioCDP.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormularioCDP.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\FormularioCDP.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:06:07.643Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "pdcFormulario.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\pdcFormulario.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\pdcFormulario.cs",
               "RelativeDocumentMoniker": "Formulario\\pdcFormulario.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\pdcFormulario.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\pdcFormulario.cs",
               "RelativeToolTip": "Formulario\\pdcFormulario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T04:14:13.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormnularioPE.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormnularioPE.cs",
-              "RelativeDocumentMoniker": "Formulario\\FormnularioPE.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormnularioPE.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formulario\\FormnularioPE.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T03:31:46.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormularioCDP.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormularioCDP.cs",
+              "DocumentIndex": 7,
+              "Title": "FormularioCDP.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormularioCDP.cs",
               "RelativeDocumentMoniker": "Formulario\\FormularioCDP.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormularioCDP.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formulario\\FormularioCDP.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\FormularioCDP.cs",
+              "RelativeToolTip": "Formulario\\FormularioCDP.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:06:07.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormnularioPE.Designer.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormnularioPE.Designer.cs",
-              "RelativeDocumentMoniker": "Formulario\\FormnularioPE.Designer.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormnularioPE.Designer.cs",
-              "RelativeToolTip": "Formulario\\FormnularioPE.Designer.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAAYwCgBAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T03:47:28.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormnularioPE.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormnularioPE.cs",
-              "RelativeDocumentMoniker": "Formulario\\FormnularioPE.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormnularioPE.cs",
-              "RelativeToolTip": "Formulario\\FormnularioPE.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T03:47:21.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pdcFormulario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\pdcFormulario.cs",
-              "RelativeDocumentMoniker": "Formulario\\pdcFormulario.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\pdcFormulario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formulario\\pdcFormulario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T03:06:40.441Z"
+              "WhenOpened": "2025-07-25T04:14:17.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FormularioUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\FormularioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\FormularioUsuario.cs",
               "RelativeDocumentMoniker": "FormularioUsuario.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\FormularioUsuario.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\FormularioUsuario.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormularioUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T03:02:23.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormularioCDP.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormularioCDP.cs",
-              "RelativeDocumentMoniker": "Formulario\\FormularioCDP.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\FormularioCDP.cs",
-              "RelativeToolTip": "Formulario\\FormularioCDP.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:14:17.593Z"
+              "WhenOpened": "2025-07-23T03:02:23.05Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "pdcFormulario.Designer.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\pdcFormulario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\pdcFormulario.Designer.cs",
               "RelativeDocumentMoniker": "Formulario\\pdcFormulario.Designer.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Formulario\\pdcFormulario.Designer.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Formulario\\pdcFormulario.Designer.cs",
               "RelativeToolTip": "Formulario\\pdcFormulario.Designer.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAjwE8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T05:11:32.494Z"
+              "WhenOpened": "2025-07-25T05:11:32.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FormularioUsuario.Designer.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\FormularioUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\FormularioUsuario.Designer.cs",
               "RelativeDocumentMoniker": "FormularioUsuario.Designer.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\FormularioUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\FormularioUsuario.Designer.cs",
               "RelativeToolTip": "FormularioUsuario.Designer.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAjwIEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:59:55.914Z"
+              "WhenOpened": "2025-07-25T04:59:55.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Escritorio\\ITR\\Informatica ITR\\C#\\PTC\\Credaris\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\PTC\\Credaris\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

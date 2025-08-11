@@ -11,3 +11,16 @@ D:\Escritorio\ITR\Informatica ITR\C#\PTC\Credaris\obj\Debug\Credaris.Formulario.
 D:\Escritorio\ITR\Informatica ITR\C#\PTC\Credaris\obj\Debug\Credaris.FormularioUsuario.resources
 D:\Escritorio\ITR\Informatica ITR\C#\PTC\Credaris\obj\Debug\Credaris.Formulario.FormnularioPE.resources
 D:\Escritorio\ITR\Informatica ITR\C#\PTC\Credaris\obj\Debug\Credaris.Formulario.FormularioCDP.resources
+C:\Users\Estudiante\Desktop\PTC\Credaris\bin\Debug\Credaris.exe.config
+C:\Users\Estudiante\Desktop\PTC\Credaris\bin\Debug\Credaris.exe
+C:\Users\Estudiante\Desktop\PTC\Credaris\bin\Debug\Credaris.pdb
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.FormularioUsuario.resources
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.Formulario.FormnularioPE.resources
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.Formulario.FormularioCDP.resources
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.Formulario.pdcFormulario.resources
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.exe
+C:\Users\Estudiante\Desktop\PTC\Credaris\obj\Debug\Credaris.pdb

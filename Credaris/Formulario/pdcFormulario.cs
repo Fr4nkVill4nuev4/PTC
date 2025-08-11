@@ -62,5 +62,10 @@ namespace Credaris.Formulario
         {
 
         }
+
+        private void dgvNombre_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

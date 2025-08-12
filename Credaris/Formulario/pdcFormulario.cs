@@ -12,33 +12,36 @@ namespace Credaris.Formulario
 {
     public partial class pdcFormulario : Form
     {
-        public pdcFormulario()
+        private string usuario;
+
+        public pdcFormulario(string nombreUsuario)
         {
             InitializeComponent();
+            usuario = nombreUsuario;
         }
 
         private void pdcFormulario_Load(object sender, EventArgs e)
         {
-
+            lblUsers.Text = "Usuario: " + usuario;
         }
 
 
  
 
-        private void btnPDC_Click(object sender, EventArgs e)
-        {
+       // private void btnPDC_Click(object sender, EventArgs e)
+        //{
 
-            if (this.Visible)
-            {
-                return;
-            }
-            else
-            {
-                pdcFormulario pf = new pdcFormulario();
-                pf.Show();
-            }
+          //  if (this.Visible)
+            //{
+              //  return;
+            //}
+            //else
+            //{
+              //  pdcFormulario pf = new pdcFormulario();
+                //pf.Show();
+            //}
 
-        }
+        //}
 
         private void btnExit_Click(object sender, EventArgs e)
         {
@@ -64,6 +67,11 @@ namespace Credaris.Formulario
         }
 
         private void dgvNombre_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void lblUsers_Click(object sender, EventArgs e)
         {
 
         }

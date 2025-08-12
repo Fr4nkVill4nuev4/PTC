@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.dgvNombre = new System.Windows.Forms.DataGridView();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
@@ -47,8 +48,8 @@
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.dgvNombre = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -59,7 +60,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -73,6 +73,16 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(868, 54);
             this.panel1.TabIndex = 15;
+            // 
+            // dgvNombre
+            // 
+            this.dgvNombre.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(109)))), ((int)(((byte)(136)))));
+            this.dgvNombre.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvNombre.Location = new System.Drawing.Point(741, 12);
+            this.dgvNombre.Name = "dgvNombre";
+            this.dgvNombre.Size = new System.Drawing.Size(124, 30);
+            this.dgvNombre.TabIndex = 2;
+            this.dgvNombre.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNombre_CellContentClick);
             // 
             // pictureBox7
             // 
@@ -282,15 +292,6 @@
             this.pictureBox10.TabIndex = 14;
             this.pictureBox10.TabStop = false;
             // 
-            // dgvNombre
-            // 
-            this.dgvNombre.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(109)))), ((int)(((byte)(136)))));
-            this.dgvNombre.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvNombre.Location = new System.Drawing.Point(741, 12);
-            this.dgvNombre.Name = "dgvNombre";
-            this.dgvNombre.Size = new System.Drawing.Size(124, 30);
-            this.dgvNombre.TabIndex = 2;
-            // 
             // FormnularioPE
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -313,6 +314,7 @@
             this.Text = "FormnularioPE";
             this.Load += new System.EventHandler(this.FormnularioPE_Load);
             this.panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
@@ -323,7 +325,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -123,7 +123,8 @@
             this.btnPDC.TabIndex = 1;
             this.btnPDC.Text = "PANEL DE CONTROL";
             this.btnPDC.UseVisualStyleBackColor = false;
-            this.btnPDC.Click += new System.EventHandler(this.btnPDC_Click);
+
+
             // 
             // panel2
             // 

@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Credaris.Formulario;
+using System.Data.SqlClient;
 
 namespace Credaris
 {
@@ -17,6 +18,9 @@ namespace Credaris
         {
             InitializeComponent();
         }
+
+        public SqlConnection coneccion = new SqlConnection("server=LAB03-DS-EQ19\\SQLEXPRESS; Database=CREDARIS; Integrated Security=True");
+
         private void txtName_TextChanged(object sender, EventArgs e)
         {
 
@@ -29,15 +33,40 @@ namespace Credaris
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            pdcFormulario pf = new pdcFormulario();
-            if (string.IsNullOrEmpty(txtName.Text) || string.IsNullOrEmpty(txtPassword.Text))
+
+            string nombreUsuario = txtName.Text;
+            pdcFormulario pf = new pdcFormulario(nombreUsuario);
+
+            try
             {
-                MessageBox.Show("Ingrese el usuario y la contrseña");
-            }else
+                coneccion.Open();
+                SqlCommand comando = new SqlCommand("SELECT usuario, contrasena from Usuarios WHERE usuario = @vusuario AND contrasena = @contrasena", coneccion);
+                comando.Parameters.AddWithValue("@vusuario", txtName.Text);
+                comando.Parameters.AddWithValue("@contrasena", txtPassword.Text);
+                SqlDataReader reader = comando.ExecuteReader();
+
+
+                if (reader.Read())
+                {
+                    coneccion.Close();
+                    this.Hide();
+                    pf.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Usuario o contraseña incorrectos. Por favor, inténtelo de nuevo.", "Error de inicio de sesión", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    reader.Close();
+                }
+            }
+            catch (Exception ex)
             {
-                pf.Show();
-                txtName.Text = "";
-                txtPassword.Text = "";
+                MessageBox.Show("Error al iniciar sesión: " + ex.Message);
+                return;
+            }
+            finally
+            {
+                if (coneccion.State == ConnectionState.Open)
+                    coneccion.Close();
             }
         }
 

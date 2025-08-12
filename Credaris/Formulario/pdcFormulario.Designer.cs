@@ -51,7 +51,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.btnMC = new System.Windows.Forms.Button();
-            this.dgvNombre = new System.Windows.Forms.DataGridView();
+            this.lblUsers = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -67,13 +67,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(109)))), ((int)(((byte)(136)))));
-            this.panel1.Controls.Add(this.dgvNombre);
+            this.panel1.Controls.Add(this.lblUsers);
             this.panel1.Controls.Add(this.pictureBox7);
             this.panel1.Controls.Add(this.pictureBox2);
             this.panel1.Controls.Add(this.pictureBox4);
@@ -85,7 +84,7 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = global::Credaris.Properties.Resources.user;
-            this.pictureBox7.Location = new System.Drawing.Point(702, 11);
+            this.pictureBox7.Location = new System.Drawing.Point(685, 11);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(36, 31);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -95,7 +94,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Credaris.Properties.Resources.campana;
-            this.pictureBox2.Location = new System.Drawing.Point(633, 11);
+            this.pictureBox2.Location = new System.Drawing.Point(615, 11);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(27, 31);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -105,7 +104,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Credaris.Properties.Resources.barra;
-            this.pictureBox4.Location = new System.Drawing.Point(680, 6);
+            this.pictureBox4.Location = new System.Drawing.Point(650, 10);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(10, 41);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -171,7 +170,8 @@
             this.btnPDC.TabIndex = 2;
             this.btnPDC.Text = "PANEL DE CONTROL";
             this.btnPDC.UseVisualStyleBackColor = false;
-            this.btnPDC.Click += new System.EventHandler(this.btnPDC_Click);
+
+
             // 
             // DVGpdc
             // 
@@ -335,15 +335,16 @@
             this.btnMC.Text = "Mostrar infromacion";
             this.btnMC.UseVisualStyleBackColor = false;
             // 
-            // dgvNombre
+            // lblUsers
             // 
-            this.dgvNombre.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(109)))), ((int)(((byte)(136)))));
-            this.dgvNombre.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvNombre.Location = new System.Drawing.Point(744, 12);
-            this.dgvNombre.Name = "dgvNombre";
-            this.dgvNombre.Size = new System.Drawing.Size(124, 30);
-            this.dgvNombre.TabIndex = 1;
-            this.dgvNombre.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNombre_CellContentClick);
+            this.lblUsers.AutoSize = true;
+            this.lblUsers.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblUsers.Location = new System.Drawing.Point(745, 23);
+            this.lblUsers.Name = "lblUsers";
+            this.lblUsers.Size = new System.Drawing.Size(34, 19);
+            this.lblUsers.TabIndex = 1;
+            this.lblUsers.Text = "Test";
+            this.lblUsers.Click += new System.EventHandler(this.lblUsers_Click);
             // 
             // pdcFormulario
             // 
@@ -372,6 +373,7 @@
             this.Text = "pdcFormulario";
             this.Load += new System.EventHandler(this.pdcFormulario_Load);
             this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
@@ -386,7 +388,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvNombre)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -417,6 +418,6 @@
         private System.Windows.Forms.Button btnP;
         private System.Windows.Forms.Button btnCDP;
         private System.Windows.Forms.Button btnMC;
-        private System.Windows.Forms.DataGridView dgvNombre;
+        private System.Windows.Forms.Label lblUsers;
     }
 }

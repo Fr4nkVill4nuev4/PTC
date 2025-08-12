@@ -100,7 +100,7 @@ VALUES
 (7, 1000, 4, 0.00, '2025-01-01', 'Finalizado');
 
 -- 9. INSERTAR CUOTAS
-INSERT INTO Cuotas (id_prestamo, numeroCuota, fechaPago, monto, estado, fechaPagoReal, comentario)
+INSERT INTO		 (id_prestamo, numeroCuota, fechaPago, monto, estado, fechaPagoReal, comentario)
 VALUES
 (1, 1, '2025-08-01', 200.00, 'Pagada', '2025-08-01', 'Pagó a tiempo'),
 (1, 2, '2025-09-01', 200.00, 'Pendiente', NULL, NULL),

@@ -26,7 +26,8 @@ namespace Credaris.Formulario
 
         private void btnPDC_Click(object sender, EventArgs e)
         {
-            pdcFormulario pf = new pdcFormulario();
+            string nombreUsuario = "test";
+            pdcFormulario pf = new pdcFormulario(nombreUsuario);
 
             pf.Show();
         }
@@ -59,6 +60,11 @@ namespace Credaris.Formulario
         }
 
         private void DVGpdc_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dgvNombre_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }

@@ -22,12 +22,11 @@ namespace Credaris.Formulario
             InitializeComponent();
         }
 
-
-        SqlConnection conexion = new SqlConnection("server=LAB02-DS-EQ19\\SQLEXPRESS; Database=CREDARIS; Integrated Security=True");
+        public SqlConnection conexion = new SqlConnection("server=LAB03-DS-EQ19\\SQLEXPRESS; Database=CREDARIS; Integrated Security=True");
 
         private void FormularioCDP_Load(object sender, EventArgs e)
         {
-            string consulta = "select id_usuario, monto, numeroCuotas, tasaInteres, fechaInicio, estado from Prestamos";
+            string consulta = "select id_prestamo, numeroCuota, fechaPago, monto, estado, fechaPagoReal, comentario from Cuotas";
             SqlDataAdapter adaptador = new SqlDataAdapter(consulta, conexion);
             DataTable dt = new DataTable();
             adaptador.Fill(dt);
@@ -54,17 +53,13 @@ namespace Credaris.Formulario
             }
         }
 
-        private void btnPDC_Click(object sender, EventArgs e)
-        {
-            pdcFormulario pf = new pdcFormulario();
-            pf.Show();
-        }
+     
 
 
         private void btnMC_Click(object sender, EventArgs e)
         {
             conexion.Open();
-            string consulta = "select *  from Usuarios";
+            string consulta = "select * from Usuarios";
             SqlCommand comando = new SqlCommand(consulta, conexion);
             comando.ExecuteNonQuery();
             MessageBox.Show("Datos mostrados");

@@ -19,7 +19,7 @@ namespace Credaris
             InitializeComponent();
         }
 
-        public SqlConnection coneccion = new SqlConnection("server=LAB03-DS-EQ19\\SQLEXPRESS; Database=CREDARIS; Integrated Security=True");
+        public SqlConnection coneccion = new SqlConnection("server=LAB02-DS-EQ19\\SQLEXPRESS; Database=CREDARIS; Integrated Security=True");
 
         private void txtName_TextChanged(object sender, EventArgs e)
         {

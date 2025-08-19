@@ -22,11 +22,11 @@ namespace Credaris.Formulario
             InitializeComponent();
         }
 
-        public SqlConnection conexion = new SqlConnection("server=LAB03-DS-EQ19\\SQLEXPRESS; Database=CREDARIS; Integrated Security=True");
+        public SqlConnection conexion = new SqlConnection("server=LAB02-DS-EQ19\\SQLEXPRESS; Database=CREDARIS; Integrated Security=True");
 
         private void FormularioCDP_Load(object sender, EventArgs e)
         {
-            string consulta = "select id_prestamo, numeroCuota, fechaPago, monto, estado, fechaPagoReal, comentario from Cuotas";
+            string consulta = "select id_empleado, monto, tasaInteres, plazoMeses, cuotaMensual, fechaInicio, fechaFin, estado from Prestamos";
             SqlDataAdapter adaptador = new SqlDataAdapter(consulta, conexion);
             DataTable dt = new DataTable();
             adaptador.Fill(dt);
